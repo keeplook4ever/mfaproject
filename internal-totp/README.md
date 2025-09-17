@@ -9,3 +9,4 @@ GRANT ALL PRIVILEGES ON mfa.* TO 'otp'@'127.0.0.1';
 FLUSH PRIVILEGES;
 
 # 编译go代码并开启服务
+配置 goland run kind: Package
